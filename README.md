@@ -10,8 +10,14 @@ About - This challenge is to integrate with the REST Countries API to pull count
 
 
 ## 2nd Project 
-### Amazon Clone 
-About - This Challenge is to create Amazon Clone using ReactJs.
-        Link - [Amazon]('https://www.amazon.com')
+<!-- ### Amazon Clone  -->
+
+<!-- About - This Challenge is to create Amazon Clone using ReactJs. -->
+<!--         Link - [Amazon]('https://www.amazon.com') -->
+Due to the unavailability of any product api to use in amazon clone. 
+Skipped....
+
+### 
+
         
 #### Deadline - Sept 18.
